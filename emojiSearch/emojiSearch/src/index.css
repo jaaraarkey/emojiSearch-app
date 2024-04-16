@@ -1,0 +1,22 @@
+:root {
+  text-align: center;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  background-color: #1a1a1a;
+  color: aliceblue;
+}
+
+body {
+  text-align: center;
+  margin: 0;
+}
+
+input {
+  text-transform: uppercase;
+  color: #1a1a1a;
+  text-align: center;
+  font-size: 1rem;
+  padding: 1rem;
+  border-color: blueviolet;
+  border-radius: 10px;
+  background-color: aliceblue;
+}
